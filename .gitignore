@@ -1,0 +1,11 @@
+# Real environment values: never commit
+values.local.env
+*.local.env
+
+# Filled-in prompts contain real values
+rendered/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
